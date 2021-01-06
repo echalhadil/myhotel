@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\bin\Debug\HOTTEL.exe.config
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\bin\Debug\HOTTEL.exe
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\bin\Debug\HOTTEL.pdb
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\obj\Debug\HOTTEL.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\obj\Debug\HOTTEL.Form1.resources
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\obj\Debug\HOTTEL.Properties.Resources.resources
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\obj\Debug\HOTTEL.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\obj\Debug\HOTTEL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\obj\Debug\HOTTEL.exe
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\obj\Debug\HOTTEL.pdb
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\obj\Debug\HOTTEL.Clients.resources
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\obj\Debug\HOTTEL.Reservations.resources
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\obj\Debug\HOTTEL.Chambres.resources
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\obj\Debug\HOTTEL.Restaurant.resources
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\obj\Debug\HOTTEL.Services.resources
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\obj\Debug\HOTTEL.factures.resources
+C:\Users\hp\source\repos\HOTTEL\HOTTEL\obj\Debug\HOTTEL.Login.resources
